@@ -1,3 +1,2 @@
 se
-cambios en prueba
-solamente se ven en rama prueba
+cambios para que desaparezca lo de antes. solo yo y se
